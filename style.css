@@ -1,0 +1,21 @@
+body {
+    margin-top: 50px;
+    background-image: linear-gradient(45deg, rgb(181, 185, 114), rgb(44, 29, 2), rgb(143, 94, 8));
+    font-family: Verdana, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 28px;
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;     
+    color: rgb(236, 240, 13);
+    overflow-y: hidden;
+}
+
+footer {
+    font-family: Verdana, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 100px;
+}
